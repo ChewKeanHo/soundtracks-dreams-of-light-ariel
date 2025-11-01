@@ -1,21 +1,30 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Dreams of Light - Ariel | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Let us try something that I was curious since very long time ago: can this
+technology handle celtic new age genre. So, out of pure curiousity, here
+is the first version of the my attempt.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #celticpop #uplifting #irish #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Dreams-of-Light-Ariel.mp3
+  Size: 10373120        Blocks: 20264      IO Block: 4096   regular file
+Access: 2025-11-01 16:43:06.550953624 +0800
+Modify: 2025-11-01 16:43:28.551039564 +0800
+Change: 2025-11-01 16:43:28.551039564 +0800
+ Birth: 2025-07-20 11:53:43.810241068 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-06-22
+On YouTube since : 2025-06-22
 ```
 
-[YouTube](#) |
+[YouTube](https://www.youtube.com/watch?v=oPhVb_k57n0) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -36,9 +45,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Dreams of Light - Ariel
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-dreams-of-light-ariel
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
