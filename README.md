@@ -9,11 +9,11 @@ is the first version of the my attempt.
 ```
 #soundtrack #celticpop #uplifting #irish #femalevocal
 
-  File: Audios/Dreams-of-Light-Ariel.mp3
+  File: Audios/01_Dreams-of-Light-Ariel.mp3
   Size: 10373120        Blocks: 20264      IO Block: 4096   regular file
-Access: 2025-11-01 16:43:06.550953624 +0800
-Modify: 2025-11-01 16:43:28.551039564 +0800
-Change: 2025-11-01 16:43:28.551039564 +0800
+Access: 2025-11-17 11:15:02.364508365 +0800
+Modify: 2025-11-03 06:46:59.395307870 +0800
+Change: 2025-11-17 11:14:53.840466839 +0800
  Birth: 2025-07-20 11:53:43.810241068 +0800
 
 On Published Date: 2025-06-21
@@ -33,6 +33,7 @@ On YouTube since : 2025-06-22
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -53,11 +54,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Dreams of Light - Ariel
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-dreams-of-light-ariel
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Dreams of Light - Ariel
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-dreams-of-light-ariel
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-dreams-of-light-ariel
 --------------------------------------------------------------------------------
 ```
 
